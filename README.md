@@ -19,15 +19,21 @@ Extract ZIP ke folder mana saja
 📂 Langkah 2 — Buka Project di Visual Studio
 
 Buka Visual Studio
+
 Klik Open a project or solution
+
 Cari folder grafik_komputer2
+
 Pilih file grafik kaliiiiii.sln
+
 Klik Open
 
 
 📦 Langkah 3 — Install NuGet Package (OxyPlot)
 Buka Tools → NuGet Package Manager → Package Manager Console, lalu jalankan:
+
 Install-Package OxyPlot.WindowsForms
+
 Tunggu sampai selesai hingga muncul tulisan Successfully installed.
 
 ▶️ Langkah 4 — Jalankan Program
