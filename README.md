@@ -4,6 +4,8 @@
 SoftwareLink DownloadVisual Studio 2022/2026https://visualstudio.microsoft.com.
 NET Framework 4.7.2+Sudah termasuk di Visual StudioGithttps://git-scm.com/downloads
 
+! HARUS PUNYA GITBASH 
+
 📥 Langkah 1 — Download Project dari GitHub
 Buka Command Prompt, lalu jalankan:
 bash
