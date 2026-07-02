@@ -7,7 +7,9 @@ NET Framework 4.7.2+Sudah termasuk di Visual StudioGithttps://git-scm.com/downlo
 📥 Langkah 1 — Download Project dari GitHub
 Buka Command Prompt, lalu jalankan:
 bash
+
 git clone https://github.com/Farrel-14/grafik_komputer2.git
+
 Atau bisa juga lewat GitHub:
 
 Buka https://github.com/Farrel-14/grafik_komputer2
