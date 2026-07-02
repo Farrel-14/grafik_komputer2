@@ -1,11 +1,13 @@
 📋 Panduan Instalasi & Penggunaan Program Grafik Warung Makan
 
 🔧 Yang Dibutuhkan
-SoftwareLink DownloadVisual Studio 2022/2026https://visualstudio.microsoft.com.NET Framework 4.7.2+Sudah termasuk di Visual StudioGithttps://git-scm.com/downloads
+SoftwareLink DownloadVisual Studio 2022/2026https://visualstudio.microsoft.com.
+NET Framework 4.7.2+Sudah termasuk di Visual StudioGithttps://git-scm.com/downloads
 
 📥 Langkah 1 — Download Project dari GitHub
 Buka Command Prompt, lalu jalankan:
-bashgit clone https://github.com/Farrel-14/grafik_komputer2.git
+bash
+git clone https://github.com/Farrel-14/grafik_komputer2.git
 Atau bisa juga lewat GitHub:
 
 Buka https://github.com/Farrel-14/grafik_komputer2
